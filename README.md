@@ -1,4 +1,6 @@
-# Rails Practice
+# Rails Practice (Ruby on Rails Tutorial)
+
+## "hello, world!"
 
 Learning Ruby on Rails development.
->>>>>>> 5ba085fcdc4daf8a41e8667f1ad5a42e97dcbf87
+This is the first application for the [*Ruby on Rails Tutorial*](https://www.railstotrial.org/) by [Micheal Hartl](https://www.michaelhartl.com/). Hello, world!
